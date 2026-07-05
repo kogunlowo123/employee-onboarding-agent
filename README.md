@@ -48,6 +48,11 @@ Employee onboarding automation agent that orchestrates new hire setup, provision
 
 ## Architecture
 
+![7-Layer Architecture](docs/diagrams/architecture-7-layer.png)
+
+*Where RAG sits in the stack — the 7-layer enterprise AI agent architecture.*
+
+
 ```
 employee-onboarding-agent/
 │
